@@ -1,7 +1,5 @@
-# Richter Tipp & Partner – Kanzleiportal
+# Richter Tipp & Partner – Unterrichtssimulation
 
-Schülerwebsite für GitHub Pages. Neue Version: Partnerarbeitsauftrag von Frau Hartmann zum Fall Manfred Adler, digitale Belege und Beamerfolie.
+Der Auftrag und die Belegsammlung von Manfred Adler werden als **interne E-Mail von Frau Hartmann** im Posteingang bereitgestellt. Die Word-Datei ist direkt an dieser Nachricht als Download verlinkt. Die Beamerfolie ist separat verfügbar.
 
-Lade alle Dateien einschließlich `index.html`, `beamer-arbeitsauftrag.html`, `arbeitsauftrag-adler-beamer.png` und `belege-manfred-adler-2025.docx` ins Hauptverzeichnis deines GitHub-Repositories hoch. Die Lehrerdatei gehört nicht ins öffentliche Repository.
-
-Die Website ist eine Unterrichtssimulation. Nutze ausschließlich fiktive Daten.
+Alle Dateien gemeinsam in das Hauptverzeichnis des GitHub-Pages-Repositorys hochladen. Nur fiktive Daten verwenden.

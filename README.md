@@ -1,5 +1,5 @@
-# Richter Tipp & Partner – Unterrichtssimulation
+Richter Tipp & Partner – GitHub Pages
 
-Der Auftrag und die Belegsammlung von Manfred Adler werden als **interne E-Mail von Frau Hartmann** im Posteingang bereitgestellt. Die Word-Datei ist direkt an dieser Nachricht als Download verlinkt. Die Beamerfolie ist separat verfügbar.
+Upload: index.html, arbeitsblatt-pension-adler.pdf und merkblatt-versorgungsbezuege.pdf. Das Lernvideo wird über einen SharePoint-Link geöffnet. Keine MP4-Dateien hochladen.
 
-Alle Dateien gemeinsam in das Hauptverzeichnis des GitHub-Pages-Repositorys hochladen. Nur fiktive Daten verwenden.
+Hinweis: SharePoint-Freigabeberechtigungen für Schüler prüfen. Nur fiktive Mandantendaten verwenden.
